@@ -13,7 +13,7 @@ Continuous learning is one of the most valuable habits a student can build, yet 
 ================================================================
 	Installation and execution instructions
 ================================================================
-AI Discord Tutor runs directly inside Discord, no separate installation is required on the user's side. To start, the user simply sends a direct message to the bot. Including the word "découvrir" (discover) in the message activates Discovery mode, in which the agent searches the web to introduce a new topic. Including the word "révision" (revision/review), together with an attached document, activates Revision mode, in which the agent builds lessons strictly from that document. Once a mode is selected, the agent generates a syllabus, schedules the lessons, and begins sending them automatically every day.
+AI Discord Tutor runs directly inside Discord, no separate installation is required on the user's side. To start, the user simply sends a direct message to the bot. Including the word "discover"  in the message activates Discovery mode, in which the agent searches the web to introduce a new topic. Including the word "revision", together with an attached document, activates Revision mode, in which the agent builds lessons strictly from that document. Once a mode is selected, the agent generates a syllabus, schedules the lessons, and begins sending them automatically every day.
 ================================================================
 Differentiation statement versus big-tech assistants/platforms :
 ================================================================ 
@@ -33,8 +33,8 @@ The current version does not implement dedicated privacy or security measures: a
 ================================================================
 	Demo video link, 5 minutes or less
 ================================================================
-A demo video is included in the submission folder as Demo_Video.mp4.*
+A demo video is included in the "AI_AGENT_TUTOR\Slide_Report_Demo" as Demo_Video.mp4.*
 ================================================================
 	Links to paper/report and slides
 ================================================================
-The full project report and the presentation slides are included in the submission folder alongside this document.
+The full project report and the presentation slides are included in the "AI_AGENT_TUTOR\Slide_Report_Demo"  folder.
